@@ -1,23 +1,14 @@
 # Hi, I'm Rajab Ali 👋
+🔭 **I’m currently working on:**<br>Building Full-Stack Web Applications using Laravel, PHP, JavaScript, and MySQL.<br><br>👯 **I’m looking to collaborate on:**<br>Open-source web development projects, Laravel applications, and innovative startup ideas.<br><br>🤝 **I’m looking for help with:**<br>Advanced Laravel, REST APIs, Cloud Deployment, and DevOps best practices.<br><br>🌱 **I’m currently learning:**<br>Laravel, RESTful APIs, Git/GitHub workflows, and modern JavaScript development.<br><br>💬 **Ask me about:**<br>Laravel, PHP, WordPress, HTML, CSS, JavaScript, Amazon FBA, eBay Store Management, and E-Commerce.<br><br>⚡ **Fun fact:**<br>I combine web development skills with real-world e-commerce experience to build solutions that are both technically strong and business-focused.<br>
 
-💻 Full-Stack Web Developer (Laravel, PHP, JavaScript, MySQL)
-🌐 WordPress Developer & Website Customization Specialist
-🛒 Amazon FBA & eBay E-Commerce Manager
-📍 Islamabad, Pakistan
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rajab-Ali11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rajab-Ali11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajab-Ali11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I enjoy building modern web applications, creating responsive websites, and optimizing digital businesses for growth. My background combines web development with hands-on e-commerce experience, allowing me to develop solutions that are both technically sound and business-focused.
+---
+[![](https://komarev.com/ghpvc/?username=Rajab-Ali11&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## Tech Stack
-- Frontend: HTML5, CSS3, JavaScript, jQuery
-- Backend: PHP, Laravel
-- Database: MySQL, SQL
-- CMS: WordPress
-- Tools: Git, GitHub, cPanel
-
-## Currently Learning
-- Advanced Laravel Development
-- REST APIs
-- Modern JavaScript Frameworks
-- Cloud Deployment
-
-📫 Reach me at: rajab.cloudy@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
