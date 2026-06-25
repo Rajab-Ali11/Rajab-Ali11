@@ -3,7 +3,7 @@
 💻 Full-Stack Web Developer (Laravel, PHP, JavaScript, MySQL)
 🌐 WordPress Developer & Website Customization Specialist
 🛒 Amazon FBA & eBay E-Commerce Manager
-📍 Rawalpindi, Pakistan
+📍 Islamabad, Pakistan
 
 I enjoy building modern web applications, creating responsive websites, and optimizing digital businesses for growth. My background combines web development with hands-on e-commerce experience, allowing me to develop solutions that are both technically sound and business-focused.
 
