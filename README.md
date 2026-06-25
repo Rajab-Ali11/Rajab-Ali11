@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajab Ali 👋
 
-<!--
-**Rajab-Ali11/Rajab-Ali11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer (Laravel, PHP, JavaScript, MySQL)
+🌐 WordPress Developer & Website Customization Specialist
+🛒 Amazon FBA & eBay E-Commerce Manager
+📍 Rawalpindi, Pakistan
 
-Here are some ideas to get you started:
+I enjoy building modern web applications, creating responsive websites, and optimizing digital businesses for growth. My background combines web development with hands-on e-commerce experience, allowing me to develop solutions that are both technically sound and business-focused.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: HTML5, CSS3, JavaScript, jQuery
+- Backend: PHP, Laravel
+- Database: MySQL, SQL
+- CMS: WordPress
+- Tools: Git, GitHub, cPanel
+
+## Currently Learning
+- Advanced Laravel Development
+- REST APIs
+- Modern JavaScript Frameworks
+- Cloud Deployment
+
+📫 Reach me at: rajab.cloudy@gmail.com
